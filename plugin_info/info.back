@@ -1,0 +1,21 @@
+{
+	"id" : "enphase_prod",
+	"name" : "Enphase Production",
+	"description" : "Plugin pour les controleurs Enphase Energy-S",
+	"licence" : "AGPL",
+	"author" : "Fifisoft57",
+	"require" : "3.2",
+	"category" : "energy",
+	"display" : "panel",
+	"hasDependency" : false,
+	"hasOwnDeamon" : true,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "",
+	"documentation" : "",
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}

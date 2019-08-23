@@ -1,0 +1,20 @@
+{
+	"id" : "enphase_prod",
+	"name" : "Enphase Production",
+	"description" : "Plugin pour les controleurs Enphase Energy-S",
+	"licence" : "AGPL",
+	"author" : "Fifisoft57",
+	"require" : "3.2",
+	"category" : "energy",
+	"hasDependency" : false,
+	"hasOwnDeamon" : true,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "",
+	"documentation" : "",
+	"link" : {
+		"forum":"https://www.jeedom.com/forum/viewtopic.php?f=149&t=45668",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}
